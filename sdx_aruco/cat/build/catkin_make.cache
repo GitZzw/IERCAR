@@ -1,0 +1,2 @@
+cat
+-DPYTHON_EXECUTABLE=/usr/bin/python2 -DCATKIN_DEVEL_PREFIX=/home/hjk/zzw/sdx_aruco/cat/devel -DCMAKE_INSTALL_PREFIX=/home/hjk/zzw/sdx_aruco/cat/install -G Unix Makefiles

@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/hjk/zzw/sdx_aruco/cat/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/hjk/zzw/sdx_aruco/cat/src/cat/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
